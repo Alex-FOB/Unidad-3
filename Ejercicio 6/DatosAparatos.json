@@ -1,0 +1,76 @@
+{
+    "__class__": "Manejador",
+    "aparatos": [
+        {
+            "__class__": "televisor",
+            "__atributos__": {
+                "marca": "Lg",
+                "modelo": "Smart TV",
+                "color": "Negro",
+                "pais": "Corea del sur",
+                "precio": 75999,
+                "imp": 86106.867,
+                "pantalla": "led",
+                "pulgadas": 60,
+                "definicion": "FULL HD"
+            }
+        },
+        {
+            "__class__": "heladera",
+            "__atributos__": {
+                "marca": "Philips",
+                "modelo": "phct290t-01",
+                "color": "Plata",
+                "pais": "Holanda",
+                "precio": 79999,
+                "imp": 83998.95,
+                "capacidad": 21,
+                "freezer": true,
+                "ciclica": false
+            }
+        },
+        {
+            "__class__": "lavarropa",
+            "__atributos__": {
+                "marca": "Drean",
+                "modelo": "Next 10-12 PG 10",
+                "color": "Gris",
+                "pais": "Argentina",
+                "precio": 103899,
+                "imp": 107015.97,
+                "capacidad": 10,
+                "velocidad": 1200,
+                "cantidad": 12,
+                "tipo": "Frontal"
+            }
+        },
+        {
+            "__class__": "televisor",
+            "__atributos__": {
+                "marca": "Philips",
+                "modelo": "Smart TV 43",
+                "color": "Negro",
+                "pais": "Holanda",
+                "precio": 54599,
+                "imp": 56236.97,
+                "pantalla": "Plasma",
+                "pulgadas": 43,
+                "definicion": "FULL HD"
+            }
+        },
+        {
+            "__class__": "televisor",
+            "__atributos__": {
+                "marca": "Redragon",
+                "modelo": "vahamut",
+                "color": "Naranja",
+                "pais": "China",
+                "precio": 75899.0,
+                "imp": 78175.97,
+                "pantalla": "led",
+                "pulgadas": 23,
+                "definicion": "FULL HD"
+            }
+        }
+    ]
+}
