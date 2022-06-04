@@ -1,0 +1,69 @@
+{
+    "__class__": "Manejador",
+    "agentes": [
+        {
+            "__class__": "docente",
+            "__atributos__": {
+                "cuil": "27-28033514-8",
+                "ape": "Ruiz",
+                "nom": "Martin",
+                "sueldo": 100000.0,
+                "antiguedad": 8,
+                "carrera": "Informatica",
+                "cargo": "Exclusivo",
+                "catedra": "Programacion"
+            }
+        },
+        {
+            "__class__": "personalApoyo",
+            "__atributos__": {
+                "cuil": "22-28036514-8",
+                "ape": "Romanello",
+                "nom": "Giuliano",
+                "sueldo": 57000.0,
+                "antiguedad": 5,
+                "categoria": 1
+            }
+        },
+        {
+            "__class__": "investigador",
+            "__atributos__": {
+                "cuil": "42-28072000-8",
+                "ape": "Aguero",
+                "nom": "Alex",
+                "sueldo": 350000.0,
+                "antiguedad": 15,
+                "area": "Ciencia de la computacion e inteligencia artificial",
+                "tipo": "Investigacion aplicada"
+            }
+        },
+        {
+            "__class__": "docenteInvestigador",
+            "__atributos__": {
+                "cuil": "07-11036664-6",
+                "ape": "Cespedes",
+                "nom": "Elias",
+                "sueldo": 500000.0,
+                "antiguedad": 20,
+                "area": "Ciencia de la computacion e inteligencia artificial",
+                "tipo": "Explicativa",
+                "carrera": "Informatica",
+                "cargo": "Simple",
+                "catedra": "Inteligencia artificial",
+                "categoria": "IV",
+                "importeExtra": 50000.0
+            }
+        },
+        {
+            "__class__": "personalApoyo",
+            "__atributos__": {
+                "cuil": "23-15945612-12",
+                "ape": "Saralegui",
+                "nom": "Juan",
+                "sueldo": 175000.0,
+                "antiguedad": 3,
+                "categoria": 20
+            }
+        }
+    ]
+}
